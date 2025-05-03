@@ -1,0 +1,16 @@
+.line{
+    border-bottom: 3px;
+    border-bottom-color: green;
+}
+
+.txt-wh{
+    color: white;
+}
+
+.gallery-img{
+    padding: 20px 20px;
+    height: 320px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin: 10px;
+}
